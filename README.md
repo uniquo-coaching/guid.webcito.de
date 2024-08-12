@@ -8,7 +8,7 @@ Generate a new GUID
 
 @param `int` $count - default `1` How many GUIDs should be generated  
 @param `bool` $lowerCase - default `true` for lowercase letters, otherwise in uppercase letters
-@return `string|string[]` - If parameter count is 1, a string is returned, otherwise an array is returned
+@return `string|string[]` - If parameter count is 1, a string is returned; otherwise an array is returned
 
 ```php
 echo GUID::generate(); // dc33c32f-f1d4-493c-a5c2-121dbe5df063
