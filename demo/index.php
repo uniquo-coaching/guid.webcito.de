@@ -1,4 +1,5 @@
 <?php
+
 $action = filter_input(INPUT_GET, 'action');
 if (!empty($action)) {
     require '../vendor/autoload.php';

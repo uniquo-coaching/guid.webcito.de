@@ -6,7 +6,7 @@
  * @noinspection  PhpUnused
  * @version       1.2
  * @author        Thomas Kirsch <t.kirsch@webcito.de>
- * @link          https://github.com/ThomasDev-de/php-guid/blob/main/dist/GUID.php
+ * @link          https://github.com/uniquo-coaching/guid.webcito.de
  * @copyright (c) 2023, Thomas Kirsch
  */
 class GUID
